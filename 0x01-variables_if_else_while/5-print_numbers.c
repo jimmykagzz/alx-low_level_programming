@@ -11,7 +11,7 @@ int main(void)
 {
 	int numb;
 
-	for (numb = 0; numb <= 9; numb:wq++)
+	for (numb = 0; numb <= 9; numb++)
 	{
 		printf(numb);
 	}
