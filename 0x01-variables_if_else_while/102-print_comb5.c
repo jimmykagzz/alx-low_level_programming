@@ -11,7 +11,7 @@ int main(void)
 {
 	int numb1, numb2;
 
-	for (numb1 = '0'; numb2 <= '98'; numb++)
+	for (numb1 = '0'; numb1 <= '98'; numb1++)
 	{
 		for (numb2 = numb1 + 1; numb2 <= '99'; numb2++)
 		{
