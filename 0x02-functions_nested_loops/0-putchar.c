@@ -9,9 +9,13 @@ int main(void)
 {
 	char jina[8] = "_putchar";
 
-	for (int i = 0; i < 8; i++)
+	int i;
+
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(jina[i]);
 	}
 	_putchar('\n');
+
+	return (0);
 }
