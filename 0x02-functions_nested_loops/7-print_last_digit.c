@@ -8,12 +8,14 @@
  */
 int print_last_digit(int d)
 {
+	int n;
+
 	if (d < 0)
 	{
 		d =  (d * -1);
 	}
 
-	d = (d % 10);
-	_putchar (d + '0');
-	return (d);
+	n = (d % 10);
+	_putchar (n + '0');
+	return (n);
 }
