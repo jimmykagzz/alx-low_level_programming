@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - get sum
+ * add - get sum
  *
  * @numb1: first number input
  * @numb2: second number input
